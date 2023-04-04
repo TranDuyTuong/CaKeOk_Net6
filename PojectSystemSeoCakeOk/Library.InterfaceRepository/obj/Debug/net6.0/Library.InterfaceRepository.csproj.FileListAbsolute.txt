@@ -1,0 +1,15 @@
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\bin\Debug\net6.0\Library.InterfaceRepository.deps.json
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\bin\Debug\net6.0\Library.InterfaceRepository.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\bin\Debug\net6.0\Library.InterfaceRepository.pdb
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\bin\Debug\net6.0\Library.DataTable.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\bin\Debug\net6.0\Library.DataTable.pdb
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.csproj.AssemblyReference.cache
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.AssemblyInfoInputs.cache
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.AssemblyInfo.cs
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.csproj.CoreCompileInputs.cache
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.csproj.CopyComplete
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\refint\Library.InterfaceRepository.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\Library.InterfaceRepository.pdb
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.InterfaceRepository\obj\Debug\net6.0\ref\Library.InterfaceRepository.dll

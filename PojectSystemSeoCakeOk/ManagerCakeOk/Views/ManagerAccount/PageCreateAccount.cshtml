@@ -1,0 +1,166 @@
+﻿
+@{
+    ViewData["Title"] = "Tạo Mới Tài Khoản Nhân Viên";
+    Layout = "~/Views/Shared/Page_Home.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Tạo Mới</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Trang Chủ</a></li>
+                <li class="breadcrumb-item"><a asp-action="PageCreateAccount" asp-controller="Account">Danh Sách Tài Khoản Nhân Viên</a></li>
+                <li class="breadcrumb-item active">Thêm Mới Nhân Viên</li>
+            </ol>
+        </nav>
+    </div><!-- End Page Title -->
+
+    <section class="section dashboard">
+        <div class="row">
+
+            <!-- Left side columns -->
+            <div class="col-lg-12">
+                <div class="row">
+                    <p>
+                        <a asp-action="PageCreateAccount" asp-controller="Account" class="btn btn-primary" data-bs-toggle="tooltip" data-bs-placement="top" title="Làm Mới">
+                            <i class="fas fa-sync-alt"></i>
+                        </a>
+                    </p>
+                </div>
+            </div><!-- End Left side columns -->
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p style="font-weight: 600; font-family: initial; font-size: 20px;">Thông Tin Tài Khoản</p>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-envelope"></i> Email</label>
+                            <input type="email" class="form-control" id="TxtEmail" placeholder="Vui Lòng Nhập Vào Email ...">
+                            <div id="ErrorEmail" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-key"></i> Mật Khẩu</label>
+                            <input type="password" class="form-control" id="TxtPassWord" placeholder="Vui Lòng Nhập Vào Mật Khẩu ...">
+                            <p style="text-align: right;">
+                                <input type="checkbox" onclick="ShowPassword()">
+                            </p>
+                            <div id="ErrorPassword" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-key"></i> Nhập Lại Mật Khẩu</label>
+                            <input type="password" class="form-control" id="TxtPassWordConfirm" placeholder="Vui Lòng Nhập Lại Mật Khẩu ...">
+                            <p style="text-align: right;">
+                                <input type="checkbox" onclick="ShowPasswordConfirm()">
+                            </p>
+                            <div id="ErrorPasswordConfirm" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-phone"></i> Số Điện Thoại</label>
+                            <input type="number" class="form-control" id="TxtPhone" placeholder="Vui Lòng Nhập Vào SĐT ...">
+                            <div id="ErrorPhone" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-image"></i> Hình Ảnh</label>
+                            <input type="file" class="form-control" id="TxtFile">
+                            <div id="ErrorFile" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3" id="TxtShowAvata">
+                           
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <p style="font-weight: 600; font-family: initial; font-size: 20px;">Thông Tin Nhân Viên</p>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-user-plus"></i> Tên Nhân Viên</label>
+                            <input type="text" class="form-control" id="TxtNameSatff" placeholder="Vui Lòng Nhập Vào Tên ...">
+                            <div id="ErrorFullName" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-birthday-cake"></i> Ngày Sinh</label>
+                            <input type="date" class="form-control" id="TxtBirthday" placeholder="Vui Lòng Nhập Vào Ngày Sinh ...">
+                            <div id="ErrorBirthday" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-ring"></i> Tình Trạng Hôn Nhân</label>
+                            <select class="form-select" id="Select_Marriage">
+                            </select>
+                            <div id="ErrorMarriage" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-city"></i> Thuộc Tỉnh/Tp</label>
+                            <select class="form-select" id="Select_City">
+                            </select>
+                            <div id="ErrorCity" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-hotel"></i> Thuộc Quận/Huyện</label>
+                            <select class="form-select" id="Select_District" disabled>
+                            </select>
+                            <div id="ErrorDistrict" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-venus-mars"></i> Giới Tính</label>
+                            <select class="form-select" id="Select_Gender">
+                            </select>
+                            <div id="ErrorGender" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-user-cog"></i> Nhân Viên & Đầu Bếp</label>
+                            <select class="form-select" id="Select_StaffChef">
+                            </select>
+                            <div id="ErrorStaffChef" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-user-tag"></i> Quyền Thao Tác</label>
+                            <select class="form-select" id="Select_Role">
+                            </select>
+                            <div id="ErrorRole" class="form-text" style="color: red;"></div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label" style="font-weight: 600; font-family: initial;"><i class="fas fa-map-marker-alt"></i> Địa Chỉ</label>
+                            <textarea class="form-control" id="TxtAddress"></textarea>
+                            <div id="ErrorAddress" class="form-text" style="color: red;"></div>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-primary" id="Btn_Create"><i class="fas fa-user-plus"></i> Tạo Mới</button>
+                </div>
+            </div>
+
+
+        </div><!-- End Right side columns -->
+    </section>
+</main><!-- End #main -->
+
+<!-- Modal loading create Music -->
+<div class="modal" tabindex="-1" style="background-color: #000000a6;" id="Modal_Loading">
+    <div class="modal-dialog">
+        <div class="modal-content" style="background:none; border:none;">
+            <div class="modal-body">
+                <div class="row" style="margin-top:200px;">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4">
+                        <div class="spinner-grow text-primary" role="status">
+                            <span class="visually-hidden"></span>
+                        </div>
+                        <div class="spinner-grow text-secondary" role="status">
+                            <span class="visually-hidden"></span>
+                        </div>
+                        <div class="spinner-grow text-success" role="status">
+                            <span class="visually-hidden"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script src="~/assets/js/Accounts/CreateAccountJS.js" asp-append-version="true"></script>
+}
+
+

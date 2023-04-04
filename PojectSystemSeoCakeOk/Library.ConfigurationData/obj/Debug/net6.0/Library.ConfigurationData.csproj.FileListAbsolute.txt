@@ -1,0 +1,15 @@
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\bin\Debug\net6.0\Library.ConfigurationData.deps.json
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\bin\Debug\net6.0\Library.ConfigurationData.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\bin\Debug\net6.0\Library.ConfigurationData.pdb
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\bin\Debug\net6.0\Library.DataTable.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\bin\Debug\net6.0\Library.DataTable.pdb
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.csproj.AssemblyReference.cache
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.AssemblyInfoInputs.cache
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.AssemblyInfo.cs
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.csproj.CoreCompileInputs.cache
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.csproj.CopyComplete
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\refint\Library.ConfigurationData.dll
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\Library.ConfigurationData.pdb
+D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.ConfigurationData\obj\Debug\net6.0\ref\Library.ConfigurationData.dll

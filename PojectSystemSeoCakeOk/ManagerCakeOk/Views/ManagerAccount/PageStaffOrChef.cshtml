@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "Nhân Viên Đầu Bếp";
+    Layout = "~/Views/Shared/Page_Home.cshtml";
+}
+
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Nhân Viên Đầu Bếp</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.html">Trang Chủ</a></li>
+                <li class="breadcrumb-item active">Nhân Viên Đầu Bếp</li>
+            </ol>
+        </nav>
+    </div><!-- End Page Title -->
+
+    <section class="section dashboard">
+        <div class="row">
+            <!-- Left side columns -->
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row g-3 align-items-center">
+                            <div class="col-auto">
+                                <span id="passwordHelpInline" class="form-text">
+                                    Nhân Viên Hay Đầu Bếp
+                                </span>
+                            </div>
+                            <div class="col-auto">
+                                <input type="text" class="form-control" id="TxtNameStaffOrChef" placeholder="Vui nhập vào ...">
+                            </div>
+                            <div class="col-auto">
+                                <button id="Btn_CreateStaffOrChef" data-bs-toggle="tooltip" data-bs-placement="top" title="Thêm Mới" class="btn btn-primary"><i class="fas fa-plus-square"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+                    <p style="text-align: center; font-family: initial; font-weight: 600; font-size: 20px">
+                        Danh Sách Nhân Viên Đầu Bếp
+                    </p>
+
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th scope="col">STT</th>
+                                    <th scope="col">Tên</th>
+                                    <th scope="col">Ngày Tạo</th>
+                                    <th scope="col">Trạng Thái</th>
+                                    <th scope="col">Lựa Chọn</th>
+                                </tr>
+                            </thead>
+                            <tbody id="BodyData">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div><!-- End Left side columns -->
+            <!-- Right side columns -->
+
+
+        </div><!-- End Right side columns -->
+    </section>
+
+    <!-- Modal loading create Music -->
+    <div class="modal" tabindex="-1" style="background-color: #000000a6;" id="Modal_Loading">
+        <div class="modal-dialog">
+            <div class="modal-content" style="background:none; border:none;">
+                <div class="modal-body">
+                    <div class="row" style="margin-top:200px;">
+                        <div class="col-md-4"></div>
+                        <div class="col-md-4">
+                            <div class="spinner-grow text-primary" role="status">
+                                <span class="visually-hidden"></span>
+                            </div>
+                            <div class="spinner-grow text-secondary" role="status">
+                                <span class="visually-hidden"></span>
+                            </div>
+                            <div class="spinner-grow text-success" role="status">
+                                <span class="visually-hidden"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-4"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</main><!-- End #main -->
+@section Scripts{
+    <script src="~/assets/js/jquery.twbsPagination.min.js" asp-append-version="true"></script>
+    <script src="~/assets/js/StaffOrChef/GetAllStaffOrChef.js" asp-append-version="true"></script>
+}
+
