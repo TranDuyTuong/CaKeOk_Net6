@@ -10,3 +10,15 @@ D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug
 D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\refint\Library.Utilities.dll
 D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.pdb
 D:\Project\ProjectCakeOk_Blank\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\ref\Library.Utilities.dll
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\bin\Debug\net6.0\Library.Utilities.deps.json
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\bin\Debug\net6.0\Library.Utilities.dll
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\bin\Debug\net6.0\Library.Utilities.pdb
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.csproj.AssemblyReference.cache
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.AssemblyInfoInputs.cache
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.AssemblyInfo.cs
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.csproj.CoreCompileInputs.cache
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.dll
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\refint\Library.Utilities.dll
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\Library.Utilities.pdb
+D:\Project\CloneProject\CaKeOk_Net6\PojectSystemSeoCakeOk\Library.Utilities\obj\Debug\net6.0\ref\Library.Utilities.dll

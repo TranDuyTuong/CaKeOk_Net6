@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ViewModel\\Library.ViewModel.csproj",
+      "projectUniqueName": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ViewModel\\Library.ViewModel.csproj",
       "projectName": "Library.ViewModel",
-      "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ViewModel\\Library.ViewModel.csproj",
+      "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ViewModel\\Library.ViewModel.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ViewModel\\obj\\",
+      "outputPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

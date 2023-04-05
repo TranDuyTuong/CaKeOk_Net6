@@ -10806,11 +10806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\ManagerCakeOk\\ManagerCakeOk.csproj",
+      "projectUniqueName": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\ManagerCakeOk\\ManagerCakeOk.csproj",
       "projectName": "ManagerCakeOk",
-      "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\ManagerCakeOk\\ManagerCakeOk.csproj",
+      "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\ManagerCakeOk\\ManagerCakeOk.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\ManagerCakeOk\\obj\\",
+      "outputPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\ManagerCakeOk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10827,20 +10827,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DataTable\\Library.DataTable.csproj": {
-              "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DataTable\\Library.DataTable.csproj"
+            "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DataTable\\Library.DataTable.csproj": {
+              "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DataTable\\Library.DataTable.csproj"
             },
-            "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj": {
-              "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj"
+            "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj": {
+              "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj"
             },
-            "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj": {
-              "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj"
+            "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj": {
+              "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj"
             },
-            "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ServiceAdmin\\Library.ServiceAdmin.csproj": {
-              "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ServiceAdmin\\Library.ServiceAdmin.csproj"
+            "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ServiceAdmin\\Library.ServiceAdmin.csproj": {
+              "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ServiceAdmin\\Library.ServiceAdmin.csproj"
             },
-            "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj": {
-              "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj"
+            "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj": {
+              "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj"
             }
           }
         }

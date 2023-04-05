@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ServiceUser\\Library.ServiceUser.csproj",
+      "projectUniqueName": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ServiceUser\\Library.ServiceUser.csproj",
       "projectName": "Library.ServiceUser",
-      "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ServiceUser\\Library.ServiceUser.csproj",
+      "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ServiceUser\\Library.ServiceUser.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.ServiceUser\\obj\\",
+      "outputPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.ServiceUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

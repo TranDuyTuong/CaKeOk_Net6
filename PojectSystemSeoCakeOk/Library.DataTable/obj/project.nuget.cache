@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y7JWFiymqB+Xe0bi5DR/ZBDYo9Z5c8MezxsxMivQ6GQHH1+ij+0OKRh1UPioQcTXzQ4vgTVH+moN6Tzbl/ROlA==",
+  "dgSpecHash": "k0RlZNyLvED6gV8hKjWN9cGqODgYRIXD/nMxYwl/CBz3xTsNp2Zq56VBL/O8Nx1mJcUZXfxLpvI7LOuZTKJwDg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DataTable\\Library.DataTable.csproj",
+  "projectFilePath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DataTable\\Library.DataTable.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",

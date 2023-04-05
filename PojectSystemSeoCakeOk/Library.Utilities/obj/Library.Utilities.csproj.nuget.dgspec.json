@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj": {}
+    "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj": {}
   },
   "projects": {
-    "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj": {
+    "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj",
+        "projectUniqueName": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj",
         "projectName": "Library.Utilities",
-        "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj",
+        "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\obj\\",
+        "outputPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

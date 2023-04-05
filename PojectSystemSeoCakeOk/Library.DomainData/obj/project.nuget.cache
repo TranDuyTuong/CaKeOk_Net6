@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNR+4bZTJ6cuO0pqsQXyCMxJ376erUrLB7Y7j0uZLTjfq/xRp9AXg7UISHF0KbzlIkTfjewu+DWq6lUqvWup7w==",
+  "dgSpecHash": "CO+NorBsvnXJRJs1BDVoaA5ywBkkIOMfgJBGX4lq9b0S6I1Qz/SlMaNeuVDzPuAI+s96sXysCxBfOAW9WURwsw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj",
+  "projectFilePath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",

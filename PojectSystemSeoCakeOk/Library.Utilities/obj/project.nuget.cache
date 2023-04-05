@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbmKt8OpM4VgSdrync1c02Jtxux5FfKCU7haWv2MgOIR73OmsQlOBQt5kp9HEGKpNvyKBwtCBN1PyYtt1MNrKg==",
+  "dgSpecHash": "nGS/HvzC4SXBJ7d27lHp2YzgL/7YTihkKvTfCLQfEG6mFJ+RZjLi0Cfs6U9Mfr73jnJgL4fBmNitMZlk2T9y8w==",
   "success": true,
-  "projectFilePath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj",
+  "projectFilePath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Utilities\\Library.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

@@ -2530,11 +2530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj",
+      "projectUniqueName": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj",
       "projectName": "Library.Repository",
-      "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj",
+      "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Repository\\Library.Repository.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.Repository\\obj\\",
+      "outputPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2551,11 +2551,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj": {
-              "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj"
+            "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj": {
+              "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.DomainData\\Library.DomainData.csproj"
             },
-            "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.InterfaceRepository\\Library.InterfaceRepository.csproj": {
-              "projectPath": "D:\\Project\\ProjectCakeOk_Blank\\PojectSystemSeoCakeOk\\Library.InterfaceRepository\\Library.InterfaceRepository.csproj"
+            "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.InterfaceRepository\\Library.InterfaceRepository.csproj": {
+              "projectPath": "D:\\Project\\CloneProject\\CaKeOk_Net6\\PojectSystemSeoCakeOk\\Library.InterfaceRepository\\Library.InterfaceRepository.csproj"
             }
           }
         }

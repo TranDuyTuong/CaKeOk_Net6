@@ -1,6 +1,7 @@
 ﻿using Library.ServiceAdmin.ServiceAdminInjection.City;
 using Library.ViewModel.Admin.V_City;
 using ManagerCakeOk.Models.M_Citys;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OfficeOpenXml;
@@ -12,6 +13,7 @@ using System.Threading.Tasks;
 
 namespace ManagerCakeOk.Controllers
 {
+    [Authorize]
     public class CitysController : Controller
     {
         private readonly ICitys context;
